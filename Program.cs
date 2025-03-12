@@ -231,4 +231,3 @@ public class Almacenes
     public string? Ubicacion_bodega { get; set; }
     public double Capacidad_bodega { get; set; }
 }
- // suponiendo que agregue cosas nuevas
